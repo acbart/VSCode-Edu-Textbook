@@ -1,4 +1,11 @@
 # yaml-language-server: $schema=https://vscodeedu.com/assets/schema/course-v2.schema.json
 id: lessonpart1
-title: Your first page title here
-content: "# Enter your content here"
+title: Problem 1
+duration: 30
+content: |
+  # Hello world!
+
+  Try solving this problem!
+showEditor: true
+editors:
+  - course1/unit1/lesson2/lessonpart1/problem1.py

@@ -8,5 +8,16 @@ contacts:
   - displayName: Austin Cory Bart
     pictureUrl: https://avatars.githubusercontent.com/u/897227?v=4
     homePageUrl: https://github.com/acbart
+files:
+  - path: course1/unit1/lesson2/lessonpart1/problem1.py
+    content: "import sys\r
+
+      \r
+
+      print(sys.modules)\r
+
+      \r
+
+      print(___)"
 units:
   - unit1/index.yml
